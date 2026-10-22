@@ -1,2 +1,8 @@
-# ROS2-Subnautic-Rimau-2027
-# ROS2-Subnautic-Rimau-2027
+Simulasi 
+
+ros2 run auv_mission mission.launch.py
+
+RILL
+
+ros2 run auv_bridge bridge
+ros2 run auv_mission mission
